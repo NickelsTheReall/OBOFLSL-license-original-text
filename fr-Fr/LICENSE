@@ -1,0 +1,30 @@
+Copyright <date jj:mm:aa> <nom>
+OBOFLSL – OBlivion OFicial Low Security License
+Licence de la série OBOFLxS
+
+1. Droits accordés
+
+Cette licence vous autorise, sans redevance ni autorisation supplémentaire, à :
+- Copier et distribuer tout ou partie des fichiers sous licence ;
+- Utiliser localement ou dans le cadre de projets, y compris à des fins commerciales ;
+- Modifier les fichiers non compilés, à condition que les modifications soient clairement documentées ;
+- Fusionner ce fichier avec d’autres programmes ou fichiers ;
+- Redistribuer les versions modifiées sous une licence compatible OBOFLxS (par exemple, OBOFLLS ou OBOFHSL (OBlivion OFicial High Security License)).
+
+2. Conditions obligatoires
+
+- La mention suivante doit figurer en haut de chaque fichier couvert par cette licence :
+- Licence de base : OBOFLLS
+
+- L’utilisateur doit utiliser une licence de la série OBOFLxS pour redistribuer ou dériver tout ou partie de celle-ci.
+
+3. Protections et interdictions
+
+- Il est strictement interdit de :
+- Distribuer de fausses copies de fichiers sous licence ;
+- Répandre des rumeurs concernant des versions modifiées non officielles ;
+- Imposer des audits ou des tests de vulnérabilité sans autorisation écrite préalable sur des fichiers de plus de 10 250 lignes.
+
+4. FUTUREMENT Mises à niveau de licence (quand la license OBOFEL sera disponible)
+
+- Lorsque le code total (utilisé uniquement pour l'exploitation) dépasse 35 000 lignes, cette licence peut être mise à niveau vers la licence OBOFEL (OBlivion OFicial Entreprise License), sous réserve des conditions qui y sont détaillées.
